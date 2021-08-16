@@ -3,7 +3,7 @@ This repository contains the author's implementation in Pytorch for the paper "A
 <div align = "center">
 <img src="https://z3.ax1x.com/2021/08/16/fWMeCq.png" width = "80%"/>
 <br>
-<div>figure1 The framework ofAdversarial Separation Network(ASN) for cross-network node classification</div>
+<!-- <div>figure1 The framework ofAdversarial Separation Network(ASN) for cross-network node classification</div> -->
 <br>
 </div>
 
@@ -50,7 +50,7 @@ Before that, you need to change the data_root (data root path), learning rate an
 <div align = "center">
 <img src="https://z3.ax1x.com/2021/08/16/fWQ1Qf.png" width = "80%"/>
 <br>
-<div>Table 3: Node classification accuracy comparisons on six cross-domain tasks</div>
+<!-- <div>Table 3: Node classification accuracy comparisons on six cross-domain tasks</div> -->
 <br>
 </div>
 
