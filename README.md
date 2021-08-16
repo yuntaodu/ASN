@@ -46,6 +46,15 @@ Before that, you need to change the data_root (data root path), learning rate an
 
 > python main.py --data_src 'dblpv7' --data_trg 'acmv9' --lr 3e-2 --cuda '0'
 
+## Results
+<div align = "center">
+<img src="https://z3.ax1x.com/2021/08/16/fWQ1Qf.png" width = "80%"/>
+<br>
+<div>Table 3: Node classification accuracy comparisons on six cross-domain tasks</div>
+<br>
+</div>
+
+
 ## Contact 
 - zhangxw@smail.nju.edu.cn
 - duyuntao@smail.nju.edu.cn
