@@ -1,9 +1,9 @@
 # Adversarial Separation Network for Cross-Network Node Classification
 This repository contains the author's implementation in Pytorch for the paper "Adversarial Separation Network for Cross-Network Node Classification".
 <div align = "center">
-<img src="https://z3.ax1x.com/2021/08/16/fWMeCq.png" width = "65%"/>
+<img src="https://z3.ax1x.com/2021/08/16/fWMeCq.png" width = "80%"/>
 <br>
-<div>图1 时间序列的时序分布漂移现象示意图</div>
+<div>figure1 The framework ofAdversarial Separation Network(ASN) for cross-network node classification</div>
 <br>
 </div>
 
