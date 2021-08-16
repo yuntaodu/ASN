@@ -2,7 +2,7 @@
 This repository contains the author's implementation in Pytorch for the paper "Adversarial Separation Network for Cross-Network Node Classification".
 
 
-### Environment Requirement
+## Environment Requirement
 
 * Python: 3.6
 
@@ -17,25 +17,32 @@ This repository contains the author's implementation in Pytorch for the paper "A
 * sklearn:0.21.1
 
 
-### Datasets:
+## Datasets:
 
 The data folder includes different domain data. 
 
 The preprocessed data can be found in our repository.
 
-* /data/acmv9.mat
+* `/data/acmv9.mat`
 
-* /data/dblpv7.mat
+* `/data/dblpv7.mat`
 
-* /data/citationv1.mat
+* `/data/citationv1.mat`
 
 The orginal datasets can be founded from https://www.aminer.cn/citation.
 
 
-###  Training:
+##  Training:
 
 You can run the command in run.sh to train and evaluate on each task for network graph dataset. 
 
 Before that, you need to change the data_root (data root path), learning rate and cuda (gpu options) in the script.
 
 > python main.py --data_src 'dblpv7' --data_trg 'acmv9' --lr 3e-2 --cuda '0'
+
+## Contact 
+- zhangxw@smail.nju.edu.cn
+- duyuntao@smail.nju.edu.cn
+
+## Reference
+ 
